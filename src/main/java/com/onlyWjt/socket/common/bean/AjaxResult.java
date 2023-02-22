@@ -14,6 +14,8 @@ public class AjaxResult<T> {
 
     private Integer code;
 
+
+
     /**
      * 返回的数据
      */
